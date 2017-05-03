@@ -1,3 +1,6 @@
+
+<?php include 'logica.php'?>
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -13,11 +16,3 @@
 
 </body>
 </html>
-
-<?php
-$titulo = ["Dom","Magnifico","Merda"];
-$qualidades = ["Formador","esteticista","Usuario SAM"];
-$nome = "Irineu";
-
-
-?>
